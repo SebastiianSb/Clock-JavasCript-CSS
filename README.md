@@ -63,10 +63,6 @@ Works in all modern browsers:
 - Safari
 - Opera
 
-## License 📝
-
-This project is open source and free to use for any purpose.
-
 ## Credits 👏
 
 Created by Juan Sebastian Andrade Sanchez - Built with ❤️ using HTML, CSS, and JavaScript
