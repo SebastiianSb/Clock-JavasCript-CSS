@@ -1,6 +1,6 @@
-# JS + CSS Clock
+# JS + CSS Clock 
 
-A simple and elegant analog clock built with vanilla JavaScript and CSS.
+A simple and elegant analog clock built with HTML, CSS and JavaScript.
 
 ## Features
 
