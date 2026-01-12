@@ -5,6 +5,7 @@
       text-align: center;
       font-size: 10px;
       color: darkcyan;
+      text-shadow: 0 0 .5rem rgba(255, 255, 255, 0.336);
 }
 
 body{
